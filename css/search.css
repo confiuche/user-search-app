@@ -36,20 +36,22 @@ input[type = search]{
     border-radius:10px;
     margin-bottom:10px;
     background:rgba(3, 108, 212, 0.158);
+    color:#fff;
 }
-/* button{
+button{
     font-weight:bold;
     font-size:18px;
     border-radius:7px;
     position:absolute;
     left:74%;
-    top:57%;
+    top:20%;
     padding:5px 7px;
     margin-top:5px;
     color:#fff;
     background:royalblue;
+    cursor: pointer;
 } 
-*/
+/* 
 .btn{
     color:rgba(255, 255, 255, 0.781);
     width:20%;
@@ -63,7 +65,7 @@ input[type = search]{
     font-weight:bold;
     font-family:'Courier New', Courier, monospace;
     border-radius: 7px;
-}
+} */
 .search i{
     position:absolute;
     margin-top:14px;
